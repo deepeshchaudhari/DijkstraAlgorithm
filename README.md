@@ -1,2 +1,2 @@
 # DijkstraAlgorithm
-Implementation Dijkstra's algorithm using adjacency matrix. 
+Implementation Dijkstra's algorithm using adjacency matrix in c++. 
